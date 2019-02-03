@@ -5,10 +5,10 @@ from wtforms.validators import DataRequired, Length, Email, equal_to
 
 
 class RegistrationForm(FlaskForm):
-    username = StringField('Username:', validators=[
+    username = StringField('Username', validators=[
         DataRequired(), Length(min=2, max=20)])
-    email = StringField('Email: ', validators=[DataRequired(), Email()])
-    password = PasswordField('Pssword:', validators=[DataRequired()])
+    email = StringField('Email', validators=[DataRequired(), Email()])
+    password = PasswordField('Password', validators=[DataRequired()])
     conform_password = PasswordField('Conform Password', validators=[
                                      DataRequired(), equal_to('password')])
     submit = SubmitField('Sign up')
@@ -16,17 +16,17 @@ class RegistrationForm(FlaskForm):
     def validate_username(self,username):
             user=User.query.filter_by(username=username.data).first()
             if user:
-                    raise ValidationError('That user name has been taken.Use a different one')
+                    raise ValidationError('That user name has been taken. Use a different one')
     
     def validate_email(self,email):
             user=User.query.filter_by(email=email.data).first()
             if user:
-                    raise ValidationError('That Email has been taken.Use a different one')                
+                    raise ValidationError('That Email has been taken. Use a different one')                
 
 class LoginForm(FlaskForm):
-    username = StringField('Username:', validators=[
+    username = StringField('Username', validators=[
         DataRequired(), Length(min=2, max=20)])
-    email = StringField('Email: ', validators=[DataRequired(), Email()])
-    password = PasswordField('Password:', validators=[DataRequired()])
+    email = StringField('Email', validators=[DataRequired(), Email()])
+    password = PasswordField('Password', validators=[DataRequired()])
     remember = BooleanField('Remember Me')
     submit = SubmitField('LogIn')
