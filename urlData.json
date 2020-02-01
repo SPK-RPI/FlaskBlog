@@ -910,5 +910,23 @@
                 "name": "Third Semester (VI)"
             }
         ]
-    }
+    },
+    "blckbookURLS": [
+        {
+            "name": "Android Application",
+            "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110389&authkey=ALLz_cy815HhjJ0&em=2"
+        },
+        {
+            "name": "E-Commerse Website",
+            "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110387&authkey=AEH1G0iTiVvqa80&em=2"
+        },
+        {
+            "name": "Embedded System",
+            "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110388&authkey=ANM2BR4nWh2BCiU&em=2"
+        },
+        {
+            "name": "Web Application",
+            "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110390&authkey=AFs-ZT-mMswSqf4&em=2"
+        }
+    ]
 }
