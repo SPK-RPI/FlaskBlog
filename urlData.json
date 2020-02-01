@@ -1,24 +1,24 @@
 {
-    "syllabusURLS": [
-        {
-            "firstYear": {
+    "syllabusURLS": {
+        "firstYear": [
+            {
                 "name": "Syllabus first Year",
                 "link": "https://drive.google.com/uc?export=download&id=1dFWN_yyROgMJGnGEmk-i8roI_po1YRY9"
             }
-        },
-        {
-            "secondYear": {
+        ],
+        "secondYear": [
+            {
                 "name": "Syllabus Second Year",
                 "link": "https://drive.google.com/uc?export=download&id=1MD7PraqUnte7HCyvllUAILFM0a1dRBHI"
             }
-        },
-        {
-            "thirdYear": {
+        ],
+        "thirdYear": [
+            {
                 "name": "Syllabus Third Year",
                 "link": "https://drive.google.com/uc?export=download&id=1YYm7tDhocOPgNQ2RaNXm4buTsUYyDdyj"
             }
-        }
-    ],
+        ]
+    },
     "notes": [
         {
             "firstYear": [
