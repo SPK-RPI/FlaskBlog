@@ -851,6 +851,64 @@
                     }
                 ]
             }
+        ],
+        "thirdYear": [
+            {
+                "name": "Third Semester (V)"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "detailed": [
+                    {
+                        "year": "November 2018",
+                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%1YExTjrVQq3TQ8CLLKcksQPNoR0ifjAO0",
+                        "name": "Artificial Intelligence"
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Web Programming",
+                "detailed": [
+                    {
+                        "year": "November 2018",
+                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%1eW0mlLlOKRrKVBw8tAmhVeZFsRtHHfNC",
+                        "name": "Advanced Web Programming"
+                    }
+                ]
+            },
+            {
+                "name": "Internet Of Things",
+                "detailed": [
+                    {
+                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%1VCeMEnq_BwDzsQ1-YiOREiSfYAjGXtNc",
+                        "name": "Internet Of Things",
+                        "year": "November 2018"
+                    }
+                ]
+            },
+            {
+                "name": "Next Genatration Tecnologies",
+                "detailed": [
+                    {
+                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%15MSf7LVYRYzTHfmvaCkRvWPVF9QUEz7H",
+                        "name": "Next Genatration Tecnologies",
+                        "year": "November 2018"
+                    }
+                ]
+            },
+            {
+                "name": "Software Project Management",
+                "detailed": [
+                    {
+                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%1iXZwAOcfXE8-Dm6IpMPbYUtnp_CbdpQj",
+                        "name": "Software Project Management",
+                        "year": "November 2018"
+                    }
+                ]
+            },
+            {
+                "name": "Third Semester (VI)"
+            }
         ]
     }
 }
