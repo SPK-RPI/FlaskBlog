@@ -908,6 +908,76 @@
             },
             {
                 "name": "Third Semester (VI)"
+            },
+            {
+                "name": "Business Intelligence",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=1Wtl2vQAEm1_PztUCifm9lU2S6KeERaRn",
+                        "year": "April 2019",
+                        "name": "Business Intelligence"
+                    }
+                ]
+            },
+            {
+                "name": "Security in Computing",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=18Zq9lbdap2AgJpEtoa1kUdnglH2VvKEg",
+                        "year": "April 2019",
+                        "name": "Security in Computing"
+                    }
+                ]
+            },
+            {
+                "name": "Enterprise Networking",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=1vRMMZR_TNKFlO5hPIacVgUA0sfUCZ-G0",
+                        "year": "April 2019",
+                        "name": "Enterprise Networking"
+                    }
+                ]
+            },
+            {
+                "name": "IT Service Management",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=1Ou12__K9LjoOIq9xvi4mIWF-fDFuP-QY",
+                        "year": "April 2019",
+                        "name": "IT Service Management"
+                    }
+                ]
+            },
+            {
+                "name": "Cyber Laws",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=13SNBnZQekIhJqGC4DoXJtfpWEZJUkKkW",
+                        "year": "April 2019",
+                        "name": "Cyber Laws"
+                    }
+                ]
+            },
+            {
+                "name": "Principles of Geographic Information Systems",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=12ZJyBfsEMix-643xR9sXIdMBuMCRZj9A",
+                        "year": "April 2019",
+                        "name": "Principles of Geographic Information Systems"
+                    }
+                ]
+            },
+            {
+                "name": "Software Quality Assurance",
+                "detailed": [
+                    {
+                        "link": "https://drive.google.com/uc?export=download&id=1WQuENwg29_g5yU133aQG3tp-WnfvEwFp",
+                        "year": "April 2019",
+                        "name": "Software Quality Assurance"
+                    }
+                ]
             }
         ]
     },
