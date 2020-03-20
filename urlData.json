@@ -1,73 +1,57 @@
 {
     "syllabusURLS": {
-        "firstYear": [
-            {
-                "name": "Syllabus first Year",
-                "link": "https://drive.google.com/uc?export=download&id=1dFWN_yyROgMJGnGEmk-i8roI_po1YRY9"
-            }
-        ],
-        "secondYear": [
-            {
-                "name": "Syllabus Second Year",
-                "link": "https://drive.google.com/uc?export=download&id=1MD7PraqUnte7HCyvllUAILFM0a1dRBHI"
-            }
-        ],
-        "thirdYear": [
-            {
-                "name": "Syllabus Third Year",
-                "link": "https://drive.google.com/uc?export=download&id=1YYm7tDhocOPgNQ2RaNXm4buTsUYyDdyj"
-            }
-        ]
+        "firstYear": [{
+            "name": "Syllabus first Year",
+            "link": "https://drive.google.com/uc?export=download&id=1dFWN_yyROgMJGnGEmk-i8roI_po1YRY9"
+        }],
+        "secondYear": [{
+            "name": "Syllabus Second Year",
+            "link": "https://drive.google.com/uc?export=download&id=1MD7PraqUnte7HCyvllUAILFM0a1dRBHI"
+        }],
+        "thirdYear": [{
+            "name": "Syllabus Third Year",
+            "link": "https://drive.google.com/uc?export=download&id=1YYm7tDhocOPgNQ2RaNXm4buTsUYyDdyj"
+        }]
     },
     "notesURLS": {
-        "firstYear": [
-            {
+        "firstYear": [{
                 "name": "First Semester (I)"
             },
             {
                 "name": "Communication Skill",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110218&authkey=AFoBK-OM4CGVqb0&em=2",
-                        "name": "Communication Skill",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110218&authkey=AFoBK-OM4CGVqb0&em=2",
+                    "name": "Communication Skill",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Digital Electronics",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110216&authkey=ANeTCM2qE5b6tYc&em=2",
-                        "name": "Digital Electronics",
-                        "year": "Anil K. Maini (2017)"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110216&authkey=ANeTCM2qE5b6tYc&em=2",
+                    "name": "Digital Electronics",
+                    "year": "Anil K. Maini (2017)"
+                }]
             },
             {
                 "name": "Discrete Mathematics",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110217&authkey=AIkaCPQpWT65CZE&em=2",
-                        "name": "Discrete Mathematics",
-                        "year": "Kenneth H.Rosen"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110217&authkey=AIkaCPQpWT65CZE&em=2",
+                    "name": "Discrete Mathematics",
+                    "year": "Kenneth H.Rosen"
+                }]
             },
             {
                 "name": "Imparative Programming",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110220&authkey=ABA7trzlUR3j3mY&em=2",
-                        "name": "Imparative Programming",
-                        "year": "Byron S. Gottfried"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110220&authkey=ABA7trzlUR3j3mY&em=2",
+                    "name": "Imparative Programming",
+                    "year": "Byron S. Gottfried"
+                }]
             },
             {
                 "name": "Operating System",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110223&authkey=AB-aNnbBogWzVx0&em=2",
                         "name": "Operating System",
                         "year": "Andrew S. Tanenbaum,Herbert Bos"
@@ -94,93 +78,75 @@
             },
             {
                 "name": "Green Computer",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110258&authkey=AEkLhIYNeCWHBtw&em=2",
-                        "name": "Green Computer",
-                        "year": "Velte Anthony Velte Robert Elsenpeter"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110258&authkey=AEkLhIYNeCWHBtw&em=2",
+                    "name": "Green Computer",
+                    "year": "Velte Anthony Velte Robert Elsenpeter"
+                }]
             },
             {
                 "name": "Microprocessor Architecture",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110256&authkey=APTSQA_ViOE00tM&em=2",
-                        "name": "Microprocessor Architecture",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110256&authkey=APTSQA_ViOE00tM&em=2",
+                    "name": "Microprocessor Architecture",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Numarical and Statestical Methods",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110267&authkey=AAHpJyGaDlF-LAE&em=2",
-                        "name": "Numarical and Statestical Methods",
-                        "year": "S.S Sastry"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110267&authkey=AAHpJyGaDlF-LAE&em=2",
+                    "name": "Numarical and Statestical Methods",
+                    "year": "S.S Sastry"
+                }]
             },
             {
                 "name": "Object Oriented Programming",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110261&authkey=AOpjmXDB9blCwiM&em=2",
-                        "name": "Object Oriented Programming",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110261&authkey=AOpjmXDB9blCwiM&em=2",
+                    "name": "Object Oriented Programming",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Web Programming",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110279&authkey=AA3j_hvdTR1KnQ8&em=2",
-                        "name": "Web Programming",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110279&authkey=AA3j_hvdTR1KnQ8&em=2",
+                    "name": "Web Programming",
+                    "year": "Notes"
+                }]
             }
         ],
-        "secondYear": [
-            {
+        "secondYear": [{
                 "name": "Third Semester (III)"
             },
             {
                 "name": "Applied Mathematics",
-                "detailed": [
-                    {
-                        "name": "Applied Mathematics",
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110297&authkey=AGxDW2whQlT5dxM&em=2",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "name": "Applied Mathematics",
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110297&authkey=AGxDW2whQlT5dxM&em=2",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Computer Network",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110296&authkey=AEJemBqon1LEp5o&em=2",
-                        "name": "Computer Network",
-                        "year": "Behrouz A. Forouzan"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110296&authkey=AEJemBqon1LEp5o&em=2",
+                    "name": "Computer Network",
+                    "year": "Behrouz A. Forouzan"
+                }]
             },
             {
                 "name": "Data Structure",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110288&authkey=AIY1C_cdW2KrQHw&em=2",
-                        "name": "Data Structure",
-                        "year": "Seymour Lipschutz"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110288&authkey=AIY1C_cdW2KrQHw&em=2",
+                    "name": "Data Structure",
+                    "year": "Seymour Lipschutz"
+                }]
             },
             {
                 "name": "Database Management Systems",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110291&authkey=AC4Of6hgHy7jIDQ&em=2",
                         "name": "Database Management Systems",
                         "year": "A Silberschatz H Korth S Sudarshan"
@@ -199,8 +165,7 @@
             },
             {
                 "name": "Python",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110294&authkey=ANLj0M_KokrKn74&em=2",
                         "name": "Python",
                         "year": "Allen Downey"
@@ -222,8 +187,7 @@
             },
             {
                 "name": "Computer Graphics and Animation",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110306&authkey=AEMuM4Bw3-WPA5A&em=2",
                         "name": "",
                         "year": "J. D. Foley A. Van Dam S. K. Feiner and J. F. Hughes"
@@ -237,73 +201,59 @@
             },
             {
                 "name": "Computer Oriented Statistical Techniques",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110304&authkey=AC_eFrk1MshEMHI&em=2",
-                        "name": "",
-                        "year": "Murray R. Spiegel Larry J. Stephens"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110304&authkey=AC_eFrk1MshEMHI&em=2",
+                    "name": "",
+                    "year": "Murray R. Spiegel Larry J. Stephens"
+                }]
             },
             {
                 "name": "Core Java",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110307&authkey=AO95nIzR6MqB_yI&em=2",
-                        "name": "",
-                        "year": "Herbert Schildt"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110307&authkey=AO95nIzR6MqB_yI&em=2",
+                    "name": "",
+                    "year": "Herbert Schildt"
+                }]
             },
             {
                 "name": "Introduction To Embedded Systems",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110305&authkey=AIw2rjn0jfJ9xno&em=2",
-                        "name": "",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110305&authkey=AIw2rjn0jfJ9xno&em=2",
+                    "name": "",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Software Engneering",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110309&authkey=AKZw2G-dqnP1gVM&em=2",
-                        "name": "",
-                        "year": "Pankaj Jalote"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110309&authkey=AKZw2G-dqnP1gVM&em=2",
+                    "name": "",
+                    "year": "Pankaj Jalote"
+                }]
             }
         ],
-        "thirdYear": [
-            {
+        "thirdYear": [{
                 "name": "Fifth Semester (V)"
             },
             {
                 "name": "Artifical Intelligence",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110334&authkey=AJT8OZiX-wJ5CzU&em=2",
-                        "name": "",
-                        "year": "Stuart Russel and Peter Norvig"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110334&authkey=AJT8OZiX-wJ5CzU&em=2",
+                    "name": "",
+                    "year": "Stuart Russel and Peter Norvig"
+                }]
             },
             {
                 "name": "Advanced Web Programming",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110345&authkey=AGSv6pS-OSkAiwE&em=2",
-                        "name": "",
-                        "year": "Beginning ASP.NET 4.5 in C# and VB"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110345&authkey=AGSv6pS-OSkAiwE&em=2",
+                    "name": "",
+                    "year": "Beginning ASP.NET 4.5 in C# and VB"
+                }]
             },
             {
                 "name": "Internet Of Things",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110331&authkey=ACvb_rXYlDwlm10&em=2",
                         "name": "",
                         "year": "Rian Mcewen Hakim Cassimally"
@@ -317,8 +267,7 @@
             },
             {
                 "name": "Next Genaration Technologies",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110420&authkey=ABmZaSftbS8QiwA&em=2",
                         "name": "",
                         "year": "Next Generation Databases NoSQL, NewSQL, and Big Data"
@@ -332,8 +281,7 @@
             },
             {
                 "name": "Software Project Mangement",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110341&authkey=ACYK6oLzHpvcseA&em=2",
                         "name": "",
                         "year": "Bob Hughes Mike Cotterell Rajib Mall"
@@ -350,95 +298,77 @@
             },
             {
                 "name": "Business Intelligence",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110355&authkey=AJLSuEeEXUzSNi8&em=2",
-                        "name": "",
-                        "year": "Carlo Vercellis"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110355&authkey=AJLSuEeEXUzSNi8&em=2",
+                    "name": "",
+                    "year": "Carlo Vercellis"
+                }]
             },
             {
                 "name": "Cyber Law",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110356&authkey=AJg__TuHBoyjZuo&em=2",
-                        "name": "",
-                        "year": "Josiah Dykstra"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110356&authkey=AJg__TuHBoyjZuo&em=2",
+                    "name": "",
+                    "year": "Josiah Dykstra"
+                }]
             },
             {
                 "name": "Enterprise Network",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110357&authkey=AIyrvt1YZdkgZn4&em=2",
-                        "name": "",
-                        "year": "CCDA"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110357&authkey=AIyrvt1YZdkgZn4&em=2",
+                    "name": "",
+                    "year": "CCDA"
+                }]
             },
             {
                 "name": "Geographic Information Systems",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110361&authkey=AKvVF5lHuOhcX6g&em=2",
-                        "name": "",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110361&authkey=AKvVF5lHuOhcX6g&em=2",
+                    "name": "",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "IT Service Management",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110358&authkey=APT2ev-lhz5wqY8&em=2",
-                        "name": "",
-                        "year": "ITIL"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110358&authkey=APT2ev-lhz5wqY8&em=2",
+                    "name": "",
+                    "year": "ITIL"
+                }]
             },
             {
                 "name": "Project Implementation",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110359&authkey=AHQTB8ROeb5QbqI&em=2",
-                        "name": "",
-                        "year": "Notes"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110359&authkey=AHQTB8ROeb5QbqI&em=2",
+                    "name": "",
+                    "year": "Notes"
+                }]
             },
             {
                 "name": "Security in Computing",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110360&authkey=AO4b7_K_O1Mp18g&em=2",
-                        "name": "",
-                        "year": "Mark Rhodes-Ousley"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110360&authkey=AO4b7_K_O1Mp18g&em=2",
+                    "name": "",
+                    "year": "Mark Rhodes-Ousley"
+                }]
             },
             {
                 "name": "Software Quality Assurance",
-                "detailed": [
-                    {
-                        "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110362&authkey=AMciyKGYJF7x8DU&em=2",
-                        "name": "",
-                        "year": "M.G. Limaye"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110362&authkey=AMciyKGYJF7x8DU&em=2",
+                    "name": "",
+                    "year": "M.G. Limaye"
+                }]
             }
         ]
     },
     "questiopapersURLS": {
-        "firstYear": [
-            {
+        "firstYear": [{
                 "name": "First Semester (I)"
             },
             {
                 "name": "Operating System",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2018 (Solved)",
                         "name": "Operating System",
                         "link": "https://drive.google.com/uc?export=download&id=1nzY2JGFNfFiwYR4Cm1w_2KFn39x5nc6E"
@@ -467,8 +397,7 @@
             },
             {
                 "name": "Imparative Programming",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2018 (Solved)",
                         "name": "Imparative Programming",
                         "link": "https://drive.google.com/uc?export=download&id=1cA7ExdBk0ffrTeN7ZaVviyqmSBxGQ7Y5"
@@ -497,8 +426,7 @@
             },
             {
                 "name": "Discrete Mathemathics",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2018 (Solved)",
                         "name": "Discrete Mathemathics",
                         "link": "https://drive.google.com/uc?export=download&id=1wq_kr_JoIkpknYz4aHL47aEIAAB2RW3K"
@@ -527,8 +455,7 @@
             },
             {
                 "name": "Digital Electronics",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2018 (Solved)",
                         "name": "Digital Electronics",
                         "link": "https://drive.google.com/uc?export=download&id=1vT0kVEUYUl5UaYxI9qbHon5Gg9hNlt1e"
@@ -557,8 +484,7 @@
             },
             {
                 "name": "Communication Skills",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "March 2017",
                         "name": "Communication Skills",
                         "link": "https://drive.google.com/uc?export=download&id=1Herjfh1OS_khyQeJZqcXgBNOpgWUJHDX"
@@ -575,8 +501,7 @@
             },
             {
                 "name": "Green Computing",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2017",
                         "name": "Green Computing",
                         "link": "https://drive.google.com/uc?export=download&id=172fUSEoJJwPiAhR4Dnoq2Nl12f9O3c17"
@@ -600,8 +525,7 @@
             },
             {
                 "name": "Microprocessor Architecture",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2017",
                         "name": "Microprocessor Architecture",
                         "link": "https://drive.google.com/uc?export=download&id=1FGYPG7dSRNxXF5ga1pdbtT2dnVNTH8xz"
@@ -625,8 +549,7 @@
             },
             {
                 "name": "Numarical Statistical Methods",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2017",
                         "name": "Numarical Statistical Methods",
                         "link": "https://drive.google.com/uc?export=download&id=1hVuBnYbZ9oFXQrje99Q5McySEwAxeXqf"
@@ -650,8 +573,7 @@
             },
             {
                 "name": "Object Oriented Programming",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2017",
                         "name": "Object Oriented Programming",
                         "link": "https://drive.google.com/uc?export=download&id=1gzQTJWnPgVEpKoXwVOL2UXGFZzT-frAj"
@@ -675,8 +597,7 @@
             },
             {
                 "name": "Web Programming",
-                "detailed": [
-                    {
+                "detailed": [{
                         "year": "April 2017",
                         "name": "Web Programming",
                         "link": "https://drive.google.com/uc?export=download&id=1Og8WbOhfaMxTJcdzNakuaN43L4hoVNtW"
@@ -699,14 +620,12 @@
                 ]
             }
         ],
-        "secondYear": [
-            {
+        "secondYear": [{
                 "name": "Third Semester (III)"
             },
             {
                 "name": "Data Structure",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Data Structure",
                         "year": "2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=116Iu4NVKdJEtnl4c7Yd-P1Eh4zBvm9cS"
@@ -720,8 +639,7 @@
             },
             {
                 "name": "Python",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Python",
                         "year": "2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1cPJOIxS2PCL-x-eBANRaWA416Wt1UBlf"
@@ -735,8 +653,7 @@
             },
             {
                 "name": "Computer Network",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Computer Network",
                         "year": "2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1XAm0YChlaHq1tP584fcW3FqRB2hTRNrX"
@@ -750,8 +667,7 @@
             },
             {
                 "name": "Database Mangement Systems",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Database Mangement Systems",
                         "year": "2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1_A0Li5xlOfSZz4mwGFMOEaZ7wPh0pqRv"
@@ -765,8 +681,7 @@
             },
             {
                 "name": "Applied Mathematics",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Applied Mathematics",
                         "year": "2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=15k3KrpdLjY1x4-DbwRsLnPLSzN8t-JGF"
@@ -783,8 +698,7 @@
             },
             {
                 "name": "Computer Graphics And Animations",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Computer Graphics And Animations",
                         "year": "April 2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1-AsALGWw-nQ2LHQVhkutInjpdEBlSLax"
@@ -798,8 +712,7 @@
             },
             {
                 "name": "Core Java",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Core Java",
                         "year": "April 2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1Qc5NDCq8ETR3em_MKJ4gX-xhn_gvYMVp"
@@ -813,8 +726,7 @@
             },
             {
                 "name": "Computer Oriented Statestical Techniques",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Computer Oriented Statestical Techniques",
                         "year": "April 2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=10xMtxR4lI3l7PzLeXal5K3Txqht7ykay"
@@ -828,8 +740,7 @@
             },
             {
                 "name": "Software Engineering",
-                "detailed": [
-                    {
+                "detailed": [{
                         "name": "Software Engineering",
                         "year": "April 2018 (Solved)",
                         "link": "https://drive.google.com/uc?export=download&id=1grSIeC21ObZw7LgRcixcoOymmTMwcacG"
@@ -843,76 +754,62 @@
             },
             {
                 "name": "Introduction To Embedded Systems",
-                "detailed": [
-                    {
-                        "name": "Introduction To Embedded Systems",
-                        "year": "March 2018",
-                        "link": "https://drive.google.com/uc?export=download&id=1vKz6SxDNCRyqIBU2u2iLp0uMzVrqlA2O"
-                    }
-                ]
+                "detailed": [{
+                    "name": "Introduction To Embedded Systems",
+                    "year": "March 2018",
+                    "link": "https://drive.google.com/uc?export=download&id=1vKz6SxDNCRyqIBU2u2iLp0uMzVrqlA2O"
+                }]
             }
         ],
-        "thirdYear": [
-            {
+        "thirdYear": [{
                 "name": "Third Semester (V)"
             },
             {
                 "name": "Artificial Intelligence",
-                "detailed": [
-                    {
-                        "year": "November 2018",
-                        "link": "https://drive.google.com/uc?export=download&id=1YExTjrVQq3TQ8CLLKcksQPNoR0ifjAO0",
-                        "name": "Artificial Intelligence"
-                    }
-                ]
+                "detailed": [{
+                    "year": "November 2018",
+                    "link": "https://drive.google.com/uc?export=download&id=1YExTjrVQq3TQ8CLLKcksQPNoR0ifjAO0",
+                    "name": "Artificial Intelligence"
+                }]
             },
             {
                 "name": "Advanced Web Programming",
-                "detailed": [
-                    {
-                        "year": "November 2018",
-                        "link": "https://drive.google.com/uc?export=download&id=1eW0mlLlOKRrKVBw8tAmhVeZFsRtHHfNC",
-                        "name": "Advanced Web Programming"
-                    }
-                ]
+                "detailed": [{
+                    "year": "November 2018",
+                    "link": "https://drive.google.com/uc?export=download&id=1eW0mlLlOKRrKVBw8tAmhVeZFsRtHHfNC",
+                    "name": "Advanced Web Programming"
+                }]
             },
             {
                 "name": "Internet Of Things",
-                "detailed": [
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=1VCeMEnq_BwDzsQ1-YiOREiSfYAjGXtNc",
-                        "name": "Internet Of Things",
-                        "year": "November 2018"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://drive.google.com/uc?export=download&id=1VCeMEnq_BwDzsQ1-YiOREiSfYAjGXtNc",
+                    "name": "Internet Of Things",
+                    "year": "November 2018"
+                }]
             },
             {
                 "name": "Next Genatration Tecnologies",
-                "detailed": [
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=15MSf7LVYRYzTHfmvaCkRvWPVF9QUEz7H",
-                        "name": "Next Genatration Tecnologies",
-                        "year": "November 2018"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://drive.google.com/uc?export=download&id=15MSf7LVYRYzTHfmvaCkRvWPVF9QUEz7H",
+                    "name": "Next Genatration Tecnologies",
+                    "year": "November 2018"
+                }]
             },
             {
                 "name": "Software Project Management",
-                "detailed": [
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=1iXZwAOcfXE8-Dm6IpMPbYUtnp_CbdpQj",
-                        "name": "Software Project Management",
-                        "year": "November 2018"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://drive.google.com/uc?export=download&id=1iXZwAOcfXE8-Dm6IpMPbYUtnp_CbdpQj",
+                    "name": "Software Project Management",
+                    "year": "November 2018"
+                }]
             },
             {
                 "name": "Third Semester (VI)"
             },
             {
                 "name": "Business Intelligence",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://drive.google.com/uc?export=download&id=1Wtl2vQAEm1_PztUCifm9lU2S6KeERaRn",
                         "year": "April 2019",
                         "name": "Business Intelligence"
@@ -926,8 +823,7 @@
             },
             {
                 "name": "Security in Computing",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://drive.google.com/uc?export=download&id=18Zq9lbdap2AgJpEtoa1kUdnglH2VvKEg",
                         "year": "April 2019",
                         "name": "Security in Computing"
@@ -941,8 +837,7 @@
             },
             {
                 "name": "Enterprise Networking",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://drive.google.com/uc?export=download&id=1vRMMZR_TNKFlO5hPIacVgUA0sfUCZ-G0",
                         "year": "April 2019",
                         "name": "Enterprise Networking"
@@ -956,28 +851,23 @@
             },
             {
                 "name": "IT Service Management",
-                "detailed": [
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=1Ou12__K9LjoOIq9xvi4mIWF-fDFuP-QY",
-                        "year": "April 2019",
-                        "name": "IT Service Management"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://drive.google.com/uc?export=download&id=1Ou12__K9LjoOIq9xvi4mIWF-fDFuP-QY",
+                    "year": "April 2019",
+                    "name": "IT Service Management"
+                }]
             },
             {
                 "name": "Cyber Laws",
-                "detailed": [
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=13SNBnZQekIhJqGC4DoXJtfpWEZJUkKkW",
-                        "year": "April 2019",
-                        "name": "Cyber Laws"
-                    }
-                ]
+                "detailed": [{
+                    "link": "https://drive.google.com/uc?export=download&id=13SNBnZQekIhJqGC4DoXJtfpWEZJUkKkW",
+                    "year": "April 2019",
+                    "name": "Cyber Laws"
+                }]
             },
             {
                 "name": "Principles of Geographic Information Systems",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://drive.google.com/uc?export=download&id=12ZJyBfsEMix-643xR9sXIdMBuMCRZj9A",
                         "year": "April 2019",
                         "name": "Principles of Geographic Information Systems"
@@ -991,8 +881,7 @@
             },
             {
                 "name": "Software Quality Assurance",
-                "detailed": [
-                    {
+                "detailed": [{
                         "link": "https://drive.google.com/uc?export=download&id=1WQuENwg29_g5yU133aQG3tp-WnfvEwFp",
                         "year": "April 2019",
                         "name": "Software Quality Assurance"
@@ -1006,8 +895,7 @@
             }
         ]
     },
-    "blckbookURLS": [
-        {
+    "blckbookURLS": [{
             "name": "Android Application",
             "link": "https://onedrive.live.com/download?cid=CA7F6FA87CBB1C23&resid=CA7F6FA87CBB1C23%2110389&authkey=ALLz_cy815HhjJ0&em=2"
         },
