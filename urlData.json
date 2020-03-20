@@ -838,16 +838,10 @@
             {
                 "name": "Enterprise Networking",
                 "detailed": [{
-                        "link": "https://drive.google.com/uc?export=download&id=1vRMMZR_TNKFlO5hPIacVgUA0sfUCZ-G0",
-                        "year": "April 2019",
-                        "name": "Enterprise Networking"
-                    },
-                    {
-                        "link": "https://drive.google.com/uc?export=download&id=1vRMMZR_TNKFlO5hPIacVgUA0sfUCZ-G0",
-                        "year": "November 2019",
-                        "name": "Enterprise Networking"
-                    }
-                ]
+                    "link": "https://drive.google.com/uc?export=download&id=1vRMMZR_TNKFlO5hPIacVgUA0sfUCZ-G0",
+                    "year": "April 2019",
+                    "name": "Enterprise Networking"
+                }]
             },
             {
                 "name": "IT Service Management",
